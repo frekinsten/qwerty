@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Garuda - 6</title>
+</head>
+<style>
+
+    body {
+      background-color: lightblue;
+    }
+  
+  </style>
+<body>
+
+<h1> Stream Video</h1>    
+<h2>The Chainsmokers - Everybody Hates Me</h2>
+<center><video src= "https://garuda6.s3.ap-southeast-1.amazonaws.com/y2mate.com+-+The+Chainsmokers+Everybody+Hates+Me+Official+Video_1080p.mp4"
+width="1250" height="600" controls ></center>
+
+</body>
+</html> 
